@@ -13,11 +13,11 @@
 
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-QLU&theme=chartreuse-dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-1282&theme=chartreuse-dark">
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-QLU&theme=chartreuse_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-1282&theme=chartreuse_dark">
 </p>
 
  
