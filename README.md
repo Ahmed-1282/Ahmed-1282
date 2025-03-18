@@ -14,8 +14,16 @@
 
 
 
-<p  align="left">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-QLU&show_icons=true&theme=chartreuse-dark">
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-QLU&theme=chartreuse-dark">
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-QLU&theme=chartreuse_dark">
 </p>
 
  
