@@ -27,8 +27,6 @@
 
 ### 🛠️ Tech Stack & Tools
 
-### 🛠️ Tech Stack & Tools
-
 To keep things clean, I've categorized my core technologies:
 
 #### **Backend & Systems**
