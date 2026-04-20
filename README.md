@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Baig</h1>
-<h3 align="center">Backend Specialist | Tech Entrepreneur | System Architecture Enthusiast</h3>
+<h3 align="center"Full Stack Engineer | Tech Entrepreneur | System Architecture Enthusiast</h3>
 
 <p align="center">
-  A Computer Science graduate from FAST-NUCES Islamabad, specializing in building robust backend architectures, high-performance transaction engines, and enterprise-level AI solutions.
+  A Computer Science graduate from FAST-NUCES Islamabad, specializing in building robust software architectures, high-performance transaction engines, and enterprise-level AI solutions.
 </p>
 
 <p align="center">
