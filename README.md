@@ -37,7 +37,7 @@ To keep things clean, I've categorized my core technologies:
 
 #### **Frontend & Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css" alt="Frontend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,next,react,html,css" alt="Frontend Tech Stack" />
 </p>
 
 #### **Databases, Cloud & DevOps**
