@@ -7,13 +7,16 @@
 
 <p align="center">
   <a href="https://ahmed-1282.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%236A0DAD?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ahmedbaig1282" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:ahmedbaig137@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge" alt="Email" />
+  </a>
+  <a href="https://medium.com/@ahmedbaig137" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge" alt="Medium" />
   </a>
 </p>
 
