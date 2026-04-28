@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Baig</h1>
-<h3 align="center">Full Stack Engineer | Tech Entrepreneur | System Architecture Enthusiast</h3>
+<h3 align="center">Full Stack Engineer | Backend Specialist | System Architecture Enthusiast</h3>
 
 <p align="center">
   A Computer Science graduate from FAST-NUCES Islamabad, specializing in building robust software architectures, high-performance transaction engines, and enterprise-level AI solutions.
@@ -19,10 +19,10 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Currently working as a **Backend Specialist**, architecting complex data systems and scalable partner APIs.
-- 🚀 Founder of a technology agency, delivering custom ERPs, full-stack web applications, and intelligent RAG chatbots.
-- 💡 Deeply interested in **Fintech**, decentralized platforms, and optimizing enterprise workflows.
-- 🌱 Continuously exploring advanced system design and multi-agent AI orchestration.
+- 💼 Currently working in an architect capacity, leading system designs for complex data architectures, end-to-end multi-tenant platforms, and scalable partner APIs.
+- 🚀 Engineering high-impact systems across diverse domains, delivering everything from GIS-powered AgriTech platforms and VoIP communication hubs to serverless market intelligence pipelines.
+- 💡 Deeply interested in decentralized ecosystems, spatial data optimization, and streamlining enterprise workflows at scale.
+- 🌱 Continuously exploring advanced system design, database performance optimization, and multi-agent AI orchestration.
 
 ---
 
